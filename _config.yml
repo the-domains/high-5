@@ -1,0 +1,28 @@
+name: High 5
+favicon: null
+layout_spectrum: 0.21983264270238578
+typography_spectrum: 0.4122192033100873
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.31832288997247815
+  lightness: 0.30758930719457567
+  saturation: 0.8752430542372167
+  rhythmicContrast: 0.4613646965008229
+purpose: []
